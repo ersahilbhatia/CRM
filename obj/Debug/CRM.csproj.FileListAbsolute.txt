@@ -1,0 +1,6 @@
+C:\website\CRM\CRM\CRM\bin\Debug\CRM.dll.config
+C:\website\CRM\CRM\CRM\bin\Debug\CRM.dll
+C:\website\CRM\CRM\CRM\bin\Debug\CRM.pdb
+C:\website\CRM\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+C:\website\CRM\CRM\CRM\obj\Debug\CRM.dll
+C:\website\CRM\CRM\CRM\obj\Debug\CRM.pdb
